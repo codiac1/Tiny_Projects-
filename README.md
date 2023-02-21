@@ -1,4 +1,4 @@
-# Tinyn Projects
+# Tiny Projects
 
 Tiny Projects Repository
 This repository contains a collection of small projects in various programming languages, including Solidity, Python, JavaScript, C#, and more. 
